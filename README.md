@@ -9,4 +9,4 @@ Contato:felipe.dias789pdev@gmail.com
 
   
 Linguagens e Ferramentas:
-PHP
+PHP , Laravel , Javascript , HTML, Python , Scrum , Analista de Sistemas
