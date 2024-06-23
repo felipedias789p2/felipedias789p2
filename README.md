@@ -7,4 +7,6 @@ Possuo conhecimentos em C,C++, noções de react e vuel
 Contato:felipe.dias789pdev@gmail.com
 
 
- 
+  
+Linguagens e Ferramentas:
+angular bootstrap csharp css3 javascript html figma java spring  node junit mysql postman git typescript heroku react aws
